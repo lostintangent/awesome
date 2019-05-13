@@ -384,7 +384,7 @@
 - [PowerShell](https://github.com/janikvonrotz/awesome-powershell#readme) - Cross-platform object-oriented shell.
 - [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows#readme) - Productivity app for macOS.
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
-
+- [Visual Studio Live Share](https://github.com/vsls-contrib/awesome-liveshare) - Real-time collaborative development
 
 ## Entertainment
 
